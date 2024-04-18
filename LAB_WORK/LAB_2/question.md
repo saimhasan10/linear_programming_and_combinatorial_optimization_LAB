@@ -11,3 +11,6 @@
 5. Write a function that can print your name 5 times using a loop (For or While).
 
 6. Draw a straight line. 
+
+
+saim_Lab2
