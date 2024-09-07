@@ -8,4 +8,4 @@
 
 #### ==> [Lab 5](https://github.com/saimhasan10/linear_programming_and_combinatorial_optimization_LAB/tree/main/LAB_WORK/LAB_5)
 
-#### ==> [Electric Power Grid Planning Using MST](https://github.com/saimhasan10/linear_programming_and_combinatorial_optimization_LAB/tree/main/PROJECT)
+#### ==> [PROJECT: Electric Power Grid Planning Using MST](https://github.com/saimhasan10/linear_programming_and_combinatorial_optimization_LAB/tree/main/PROJECT)
